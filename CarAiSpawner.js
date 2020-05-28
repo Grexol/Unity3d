@@ -1,4 +1,4 @@
-
+//by Grexol
 
 function instantiateAICar() : System.Boolean {
 	var hit : RaycastHit;
