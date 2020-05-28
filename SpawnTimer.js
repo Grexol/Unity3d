@@ -1,4 +1,5 @@
 //attach to waypoint Z  -- by Serigrapher11
+// edited by Grexol  
 var other : Transform;
 other = GameObject.Find("CamSphere").transform;
 other.hideFlags = HideFlags.NotEditable;
