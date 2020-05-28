@@ -1,5 +1,5 @@
 //attach to parent                                                       //by Serigrapher
- 
+// edited by Grexol  
 var lastPos: Vector3;
 
 var newVector3Pos: Vector3 ;
