@@ -1,4 +1,5 @@
 // attach to points
+// edited by Grexol -CTTO of original
 
 function OnDrawGizmos(){	
 	transform.position = Vector3(transform.position.x,-3,transform.position.z);
