@@ -1,4 +1,5 @@
-//edited by: Serigrapher
+//edited by: Serigrapher -CTTO of original
+// edited by Grexol 
 // Assign a red color to this transform's material
 //~ transform.renderer.material.color = Color.yellow;
 
