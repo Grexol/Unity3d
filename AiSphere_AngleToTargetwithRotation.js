@@ -1,6 +1,6 @@
 // prints "close" if the z-axis of this transform looks
 // almost towards the target
-
+// edited by Grexol -CTTO of original
 @HideInInspector
 var cubePos : Transform ; 
 
