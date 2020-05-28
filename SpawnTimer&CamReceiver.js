@@ -1,3 +1,4 @@
+// by Grexol  
 var spawnDist : int = 0;													//attach to waypoint Z  -- by Serigrapher11
 var delt : int = Time.deltaTime;
 //~ var pos : Vector3 = transform.position;
