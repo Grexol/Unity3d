@@ -1,4 +1,5 @@
-// CTTO of original
+//edited by: Serigrapher -CTTO of original
+// edited by Grexol 
 var FrontLeftWheel : WheelCollider;
 var FrontRightWheel : WheelCollider;
 
