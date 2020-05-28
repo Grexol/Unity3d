@@ -1,4 +1,5 @@
 //Attach to Cube points
+//by Grexol
 
 //@HideInInspector
 var other : Transform;
