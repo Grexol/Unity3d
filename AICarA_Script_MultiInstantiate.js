@@ -1,4 +1,4 @@
-//by: Serigrapher
+//edited by: Serigrapher
 // Assign a red color to this transform's material
 //~ transform.renderer.material.color = Color.yellow;
 
