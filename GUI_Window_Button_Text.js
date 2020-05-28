@@ -1,5 +1,5 @@
 //attach to vehicle Cube collider || BikeCatcher
-
+// edited by Grexol  
 var isEnter :boolean =false;
 var windowRect : Rect;
 var tranSearch : String ;
