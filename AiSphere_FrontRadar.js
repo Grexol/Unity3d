@@ -1,3 +1,4 @@
+// edited by Grexol -CTTO of original
 var spawnPoints : Transform;
 private var waypoint = new Array();
 private var mesafe:float;
