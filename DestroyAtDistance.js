@@ -3,7 +3,7 @@
 
 
 //Attach to AiCar's WaypointReceiver
-
+//by Grexol
 var other : Transform;
 //~ other = GameObject.Find("3rd Person Controller").transform;
 other = GameObject.Find("CamSphere").transform;
